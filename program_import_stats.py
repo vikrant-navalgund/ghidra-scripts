@@ -1,5 +1,4 @@
 import os
-from ghidra.program.flatapi import FlatProgramAPI
 
 # Suspicious functions
 vuln_funcs = ['CryptEncrypt', 
